@@ -26,7 +26,7 @@
 * 开发工具: goland、vs code
 * 开发平台: windows、mac、linux
 * 其他环境: docker
-* 参考案例：https://github.com/fuyouawa/MMORPG
+* 参考案例: https://github.com/fuyouawa/MMORPG
 
 ### 五、集群架构
 
