@@ -13,8 +13,7 @@
 
 ### 三、开发交流
 
-<img title="due游戏服务器框架交流群" src="group_qrcode.jpeg" alt="due游戏服务器框架交流群" width="177">
-<img title="个人二维码" src="personal_qrcode.jpeg" alt="个人二维码" width="177">
+<img title="due游戏服务器框架交流群" src="group_qrcode.jpeg" alt="due游戏服务器框架交流群" width="177"><img title="个人二维码" src="personal_qrcode.jpeg" alt="个人二维码" width="177">
 
 欢迎广大游戏开发爱好者加入共同学习进步。
 
