@@ -28,7 +28,7 @@
 * 其他环境: docker
 * 参考案例: https://github.com/fuyouawa/MMORPG
 
-### 五、集群架构
+### 五、项目架构
 
 ### 六、快速开始
 
